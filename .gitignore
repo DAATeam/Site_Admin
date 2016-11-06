@@ -12,5 +12,6 @@
 hs_err_pid*
 .DS_Store
 .idea/
-mvnw
-mvnw.cmd
+target/
+node_modules/
+src/main/resources/static/built/
